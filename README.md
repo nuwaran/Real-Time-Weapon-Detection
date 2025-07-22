@@ -1,6 +1,6 @@
 # 🎯 Real-Time Weapon Detection System using YOLOv8 and CCTV Surveillance
 
-This project demonstrates a real-time AI-powered weapon detection system designed for public and institutional safety. The system integrates **YOLOv8** object detection with **CCTV camera feeds**, and runs on a **Raspberry Pi-based custom PCB** for efficient edge deployment.
+This project demonstrates a real-time AI-powered weapon detection system designed for public and institutional safety. The system integrates **YOLOv8** object detection with **CCTV camera feeds**, and runs on a **Raspberry Pi-based custom PCB** for efficient edge deployment. Here I added trained yolo model only. PCB designs are not added here!
 
 🗓️ **Project Duration**: Feb 2025 – Apr 2025  
 👨‍💻 **Type**: Team Project
